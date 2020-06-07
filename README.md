@@ -6,10 +6,10 @@ Last Update: 2020/06/07
 ## Log in 
 ## Log out
 
-# Django board was developed using 
+# Flask Signup was developed using 
 flask, Flask-SQLAlchemy, flask WTForms, bootstrap, python
 
-# Django board was developed by 
+# Flask Signup was developed by 
 heesunlee9 in December 2019.
 
 # How to Start
