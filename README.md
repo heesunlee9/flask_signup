@@ -1,12 +1,10 @@
-<h1>Flask signup</h1>
+<h1>Flask Signup</h1>
 Last Update: 2020/06/07
 
 # Features
 ## Sign up 
 ## Log in 
 ## Log out
-## Post Uploading 
-## Tagging
 
 # Django board was developed using 
 flask, Flask-SQLAlchemy, flask WTForms, bootstrap, python
