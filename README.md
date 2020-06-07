@@ -1,6 +1,18 @@
-# flask_signup
-Keywords: flask, Flask-SQLAlchemy, flask WTForms, bootstrap, python <br>
-flask_signup lets you know how to implement sign up, sign in, and sign out using flask
+<h1>Flask signup</h1>
+Last Update: 2020/06/07
+
+# Features
+## Sign up 
+## Log in 
+## Log out
+## Post Uploading 
+## Tagging
+
+# Django board was developed using 
+flask, Flask-SQLAlchemy, flask WTForms, bootstrap, python
+
+# Django board was developed by 
+heesunlee9 in December 2019.
 
 # How to Start
 1. pip install virtualenv
@@ -15,7 +27,7 @@ e.g. virtualenv venv
 pip install -U Flask-SQLAlchemy <br>
 pip install Flask-WTF
 
-5. python3 app.py <br>
+5. python3 app.py (temporary) <br>
 http://127.0.0.1:5000/ <br>
 http://127.0.0.1:5000/register <br>
 http://127.0.0.1:5000/login <br>
